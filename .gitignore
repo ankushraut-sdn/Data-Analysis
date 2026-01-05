@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & Cache
+data/cache/
+data/Sales_Data_OctDec2024/
+data/Sales_Data_OctDec2025/
+*.parquet
+*.csv
+*.xlsx
+
+# OS
+.DS_Store
